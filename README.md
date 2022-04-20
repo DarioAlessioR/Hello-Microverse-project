@@ -23,7 +23,7 @@ There are no special instructions to get started with this project.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome, please!
 
 Feel free to check the [issues page](../../issues/).
 
